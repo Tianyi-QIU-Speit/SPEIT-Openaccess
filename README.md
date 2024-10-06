@@ -7,3 +7,8 @@ Bear in mind three things:<br>
 3.Don't attempt to learn by yourself with only the textbook, unless your're a genius(but then you won't need the books anyway).Listen to the profs, they'll present the course better than a sole textbook.
 
 No luck for the exercises though, you'll have to tackle these on your own!
+
+**Update Notes**
+* I believe there is a new course called "Introduction to Engineering" for Y1, not included in here since I never took it.
+* Update 2024.10.6: Added the textbooks of the third semester. The linear algebra book is an older version but actually works better since the links in the TDM work. A more recent version exists but I refuse to use latex documents w/o links in them.
+
