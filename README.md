@@ -7,6 +7,7 @@ Bear in mind three things:<br>
 3.Don't attempt to learn by yourself with only the textbook, unless your're a genius(but then you won't need the books anyway).Listen to the profs, they'll present the course better than a sole textbook.
 
 No luck for the exercises though, you'll have to tackle these on your own!
+<br>Maybe I'll try to write some of them for reference......?
 
 **Update Notes**
 * I believe there is a new course called "Introduction to Engineering" for Y1, not included in here since I never took it.
